@@ -19,6 +19,7 @@ git log --graph --oneline shows the log in a graph structure.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+All the changes made within the two branches are combined. The diagram helps show where they split and when they're combined.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
